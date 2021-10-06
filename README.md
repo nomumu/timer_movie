@@ -2,7 +2,7 @@
 This is a timer movie for Zoom virtual background.
 
 ## Setup
-Register your video to the virtual background of your Zoom app.
+Register timer_movie.mp4 video to the virtual background of your Zoom app.
 
 ## Usage
 1. The timer display will start automatically.
